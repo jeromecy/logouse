@@ -106,3 +106,15 @@ table {
 .tab-content {
   overflow: visible;
 }
+
+.navbar .navbar{ background-color: #00b8bd;}
+
+.navbar .navbar-default .navbar-brand{color: white;}
+
+.navbar .tab-panel{ background-color: #00b8bd; color: #00b8bd}
+
+.navbar .navbar-nav li a:hover, .navbar1 .navbar-nav > .active > a {
+color: #fff !important;
+background-color:#00b8bd !important;
+background-image: #fff !important;
+}
